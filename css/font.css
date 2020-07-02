@@ -1,0 +1,59 @@
+
+@font-face
+{
+    font-family: signature;
+    src:url('../fonts/signature.ttf');
+}
+
+@font-face
+{
+  font-family:Cianan;
+  src:url('../fonts/Cianan-ur-Regular.otf');
+}
+
+@font-face
+{
+    font-family: carnas_light;
+    src:url('../fonts/carnas/carnas_light.otf');
+}
+@font-face
+{
+    font-family: carnas_light;
+    src:url('../fonts/carnas/carnas_light.woff');
+}
+
+@font-face
+{
+    font-family: carnas_regular;
+    src:url('../fonts/carnas/carnas_regular.otf');
+}
+@font-face
+{
+    font-family: carnas_regular;
+    src:url('../fonts/carnas/carnas_regular.woff');
+}
+
+@font-face
+{
+    font-family: carnas_thin;
+    src:url('../fonts/carnas/carnas_thin.otf');
+}
+@font-face
+{
+    font-family: carnas_thin;
+    src:url('../fonts/carnas/carnas_thin.woff');
+}
+
+@font-face 
+{
+ font-family:Circles_New;
+ src:url('../fonts/Circles_New.ttf'); /* TTF file for CSS3 browsers */
+}
+
+@font-face 
+{
+ font-family:segoe-ui-bold;
+ src:url('../fonts/segoe-ui-bold.ttf'); /* TTF file for CSS3 browsers */
+}
+
+
